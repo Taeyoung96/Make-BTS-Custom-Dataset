@@ -1,6 +1,6 @@
 # BTS-make-txt
 
-### This repository helps you to make `files_with_gt.txt` in `BTS`.  
+### This repository helps you to make `files_with_gt.txt` in [BTS](https://github.com/cogaplex-bts/bts).  
 
 First, when you make your own dataset, you should know your focal length.  
 Second, you have to change the name of RGB images & Depth images.  
