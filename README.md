@@ -1,4 +1,4 @@
-# BTS-make-txt
+# Make-BTS-Custom-Dataset
 
 ### This repository helps you to make `files_with_gt.txt` in [BTS](https://github.com/cogaplex-bts/bts).  
 
